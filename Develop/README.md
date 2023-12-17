@@ -1,20 +1,20 @@
 
-  # s
-  ![License Badge]()
+  # project demo
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue)
   ## Description
-  s
+  this is for a project demo
   ## Installation
-  s
+  you must run this application with node.js installed on your device!
   ## Usage
-  s
+  for making project demos
   ## Contributing
-  s
+  however you would like!
   ## Tests
-  s
+  however you would like!
   ## License
-  View License Details: []()
+  View License Details: [MIT](http://choosealicense.com/licenses/mit/)
   ## Questions
-  [Github](https://github.com/s) 
+  [Github](https://github.com/pisko23) 
 
-  Contact me at s
+  Contact me at tylerpittman731@gmail.com
   
